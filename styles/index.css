@@ -19,25 +19,28 @@
 }
 .wrap main .line2 .left_wrap h1 {}
 .wrap main .line2 .left_wrap h1 img {}
-.wrap main .line2 .left_wrap .title_r {
-    margin-left: 11px;
-    background-color: aqua;
+.wrap main .line2 .rigth_wrap .title_r {
 }
 .wrap main .line2 .left_wrap .title_r h2 {
     font-weight: 600;
     font-size: 1.5rem;
     margin-bottom: 11px;
 }
-.wrap main .line2 .left_wrap .title_r p {
-    font-size: 0.875rem;
-}
 .wrap main .line2 .rigth_wrap {
     display: flex;
     flex-flow: row wrap;
     padding-bottom: 61px;
+    padding-left: 41px;
 }
-.wrap main .line2 .rigth_wrap .title_r h1 {}
-.wrap main .line2 .rigth_wrap .title_r p {}
+.wrap main .line2 .rigth_wrap .title_r {
+    padding-left: 48px;
+}
+.wrap main .line2 .rigth_wrap .title_r h2 {
+    font-size: 1.5rem;
+}
+.wrap main .line2 .rigth_wrap .title_r p {
+    padding-bottom: 134px;
+}
 .wrap main .line2 .rigth_wrap .product {
     display: flex;
 }
