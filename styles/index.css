@@ -1,0 +1,138 @@
+.wrap {
+    max-width:1920px;
+    padding-top: 110px;
+    padding-left: 360px;
+    padding-right: 360px;
+}
+.wrap header {
+    font-size: 1.25rem;
+    font-weight: 600;
+    padding-bottom: 11px;
+}
+.wrap main {
+}
+.wrap main .line2{
+    display: flex;
+}
+.wrap main .line2 .left_wrap {
+    display: flex;
+}
+.wrap main .line2 .left_wrap h1 {}
+.wrap main .line2 .left_wrap h1 img {}
+.wrap main .line2 .left_wrap .title_r {
+    margin-left: 11px;
+    background-color: aqua;
+}
+.wrap main .line2 .left_wrap .title_r h2 {
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin-bottom: 11px;
+}
+.wrap main .line2 .left_wrap .title_r p {
+    font-size: 0.875rem;
+}
+.wrap main .line2 .rigth_wrap {
+    display: flex;
+    flex-flow: row wrap;
+    padding-bottom: 61px;
+}
+.wrap main .line2 .rigth_wrap .title_r h1 {}
+.wrap main .line2 .rigth_wrap .title_r p {}
+.wrap main .line2 .rigth_wrap .product {
+    display: flex;
+}
+.wrap main .line2 .rigth_wrap .product .product1 {
+    margin-right: 15px;
+}
+.wrap main .line2 .rigth_wrap .product .product1 .p03{
+    margin-right: 0px;
+}
+.wrap main .line2 .rigth_wrap .product .product1 img {}
+.wrap main .line2 .rigth_wrap .product .product1 .title {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+.wrap main .line2 .rigth_wrap .product .product1 .title h3 {
+}
+.wrap main .line2 .rigth_wrap .product .product1 .title img {}
+.wrap main .line2 .rigth_wrap .product .product1 p {
+    padding-bottom: 5px;
+    color: #aaa;
+}
+.wrap main .line2 .rigth_wrap .product .product1 span:nth-of-type(1) {
+    font-size: 0.875rem;
+    color: #FF0000;
+    margin-right: 19px;
+    font-weight: 700;
+}
+.wrap main .line2 .rigth_wrap .product .product1 span:nth-of-type(2) {
+    font-size: 0.875rem;
+    font-weight: 700;
+}
+.wrap main .line2 .rigth_wrap .product .product1 p {
+    padding-bottom: 5px;
+}
+.wrap main .line2 .rigth_wrap .product .product1 p {
+    padding-bottom: 5px;
+}
+.wrap main .line2 .rigth_wrap .product .product1 p {
+    padding-bottom: 5px;
+}
+.wrap main .line2 .rigth_wrap .product .product1 p {
+    padding-bottom: 5px;
+}
+.wrap main .bottom_wrap {
+}
+.wrap main .bottom_wrap .t2 {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 14px;
+}
+.wrap main .bottom_wrap h2 {
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+.wrap main .bottom_wrap a {}
+.wrap main .bottom_wrap a span {}
+.wrap main .bottom_wrap .line {
+    display: flex;
+}
+.wrap main .bottom_wrap .line .product2 {
+    margin-right: 15px;
+}
+.wrap main .bottom_wrap .line .product2 img {}
+.wrap main .bottom_wrap .line .product2 .title {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+.wrap main .bottom_wrap .line .product2 .title .h3 {}
+.wrap main .bottom_wrap .line .product2 p {
+    padding-bottom: 5px;
+    color: #aaa;
+}
+.wrap main .bottom_wrap .line .product2 .opo {
+    color: #000;
+}
+.wrap main .bottom_wrap .line .product2 .adi {
+    color: #000;
+}
+.wrap main .bottom_wrap .line .product2 span:nth-of-type(1) {
+    font-size: 0.875rem;
+    margin-right: 19px;
+    color: #FF0000;
+    font-weight: 700;
+}
+.wrap main .bottom_wrap .line .product2 span:nth-of-type(2) {
+    font-size: 0.875rem;
+    font-weight: 700;
+}
+.wrap main .barnds_wrap {
+    font-size: 2rem;
+    font-weight: 700;
+}
